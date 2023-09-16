@@ -1,0 +1,18 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    color: black;
+background-image: url(./image/front\ image.jpeg);
+    background:repeat;
+    background-position: center;
+    background-color: aqua; 
+}
+.hero{
+
+    background-color: aqua;
+}
